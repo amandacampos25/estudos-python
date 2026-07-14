@@ -1,4 +1,3 @@
-# estudos-python
 # 🐍 Estudos Python
 
 Este repositório foi criado para documentar e organizar minha jornada de aprendizado na linguagem **Python**. Aqui reúno exercícios de lógica, desafios de algoritmos, projetos práticos e códigos desenvolvidos durante meus estudos acadêmicos e cursos autônomos.
@@ -25,3 +24,4 @@ Através destes códigos, busco exercitar e dominar conceitos fundamentais como:
 * Modularização e consumo de bibliotecas padrão
 
 ---
+*Estudos realizados por **Amanda Ellen de Campos**.*
